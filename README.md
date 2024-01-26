@@ -10,3 +10,34 @@ Here are some ideas to get you started:-->
 - 💪 I’m proficient in Python, JavaScript, HTML/CSS, Java, C++, SQL, and C#🚀
 - 📫 How to reach me: Feel free to reach out to me at **leemi000917@gmail.com**
 - ⚡ Fun fact: My favorite game is <sub>Hallow Knight</sub>🎮
+Languages and Tools:
+amplify
+android
+aws
+bash
+c
+cplusplus
+css3
+docker
+figma
+git
+html5
+java
+javascript
+kotlin
+linux
+matlab
+mysql
+nodejs
+opencv
+pandas
+python
+pytorch
+react
+scikit_learn
+tailwind
+tensorflow
+typescript
+unity
+vuejs
+vuetify
